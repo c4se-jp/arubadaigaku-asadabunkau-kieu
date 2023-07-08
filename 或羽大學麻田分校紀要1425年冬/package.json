@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ne-sachirou/arubadaigaku-asadabunkau-kieu#readme",
   "devDependencies": {
-    "npm-check-updates": "^10.0.0",
+    "npm-check-updates": "^16.10.15",
     "prettier": "^2.1.2"
   }
 }
